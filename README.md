@@ -1,5 +1,7 @@
 # 💫 About Me:
-Front-end Webdevelopment
+Hello there!
+This is Arifur Rahman. 
+I’m experienced when it comes to web design and development, and I have almost 4+ years of experience in the field. I can build a top-quality, user-friendly, and responsive website.
 
 
 ## 🌐 Socials:
