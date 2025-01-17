@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hello there!
-This is Arifur Rahman. 
-I’m experienced when it comes to web design and development, and I have almost 4+ years of experience in the field. I can build a top-quality, user-friendly, and responsive website.
+A passionate web developer with 4+ years of experience crafting high-quality, user-friendly, and responsive websites. Let’s collaborate to turn ideas into impactful digital solutions!
 
 
 ## 🌐 Socials:
