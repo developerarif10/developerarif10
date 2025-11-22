@@ -1,7 +1,7 @@
 #  About Me
-You know what's worse than not having a website? Having one that doesn't work.
-I've been building high-performance web solutions for 4+ years—sites that load fast, look sharp, and actually help businesses grow. Next.js, WordPress, custom builds—whatever gets the job done right.
-No fluff. No shortcuts. Just solid code and websites that work as hard as you do.
+You know what's worse than not having a website? Having one that doesn't work.</br>
+I've been building high-performance web solutions for 4+ years—sites that load fast, look sharp, and actually help businesses grow. Next.js, WordPress, custom builds—whatever gets the job done right.</br>
+No fluff. No shortcuts. Just solid code and websites that work as hard as you do.</br></br>
 Need a developer who delivers? Let's talk
 
 
