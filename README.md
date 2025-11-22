@@ -1,5 +1,8 @@
 #  About Me
-A passionate web developer with 4+ years of experience crafting high-quality, user-friendly, and responsive websites. Let’s collaborate to turn ideas into impactful digital solutions!
+You know what's worse than not having a website? Having one that doesn't work.
+I've been building high-performance web solutions for 4+ years—sites that load fast, look sharp, and actually help businesses grow. Next.js, WordPress, custom builds—whatever gets the job done right.
+No fluff. No shortcuts. Just solid code and websites that work as hard as you do.
+Need a developer who delivers? Let's talk
 
 
 ##  Socials
